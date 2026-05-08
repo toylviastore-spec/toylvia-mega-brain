@@ -4,7 +4,7 @@
 ---
 
 ## 👤 Owner Identity
-- **Owner email:** zikobooking@gmail.com
+- **Owner email:** pikipoki255@gmail.com
 - **Shopify store slug:** `toy-liva` (admin URL: `https://admin.shopify.com/store/toy-liva/`)
 - **Shopify store domain:** `toy-liva.myshopify.com`
 - **Storefront domain:** `toylvia.com`
