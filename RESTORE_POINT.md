@@ -3,16 +3,30 @@
 
 ---
 
+## 👤 Owner Identity
+- **Owner email:** zikobooking@gmail.com
+- **Shopify store slug:** `toy-liva` (admin URL: `https://admin.shopify.com/store/toy-liva/`)
+- **Shopify store domain:** `toy-liva.myshopify.com`
+- **Storefront domain:** `toylvia.com`
+- **Live theme ID:** `199513243979`
+
+---
+
 ## 🔌 Connected MCP Servers
 
 ### 1. Shopify MCP
 - **Store:** Toylvia (`toylvia.com`)
+- **Store slug:** `toy-liva` ← use this for CLI and admin URLs, NOT `toylvia`
+- **Admin URL:** `https://admin.shopify.com/store/toy-liva/`
+- **Myshopify domain:** `toy-liva.myshopify.com`
+- **Live theme ID:** `199513243979`
 - **Plan:** Basic
 - **Currency:** USD
 - **Timezone:** CEST
 - **Country:** Slovenia
 - **Status:** ✅ Connected & Operational
 - **Capabilities:** Read + Write (products, orders, customers, collections, discounts, inventory, GraphQL)
+- **⚠️ Limitation:** MCP blocks `themeFilesUpsert` on live/MAIN theme — use Shopify CLI or admin UI for theme file edits
 
 ### 2. Windsor.ai MCP
 - **Account:** toylvia.store@gmail.com
